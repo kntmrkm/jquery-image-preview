@@ -1,0 +1,27 @@
+{
+  "name": "jquery-image-preview",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kntmrkm/jquery-image-preview",
+  "authors": [
+    "msng https://github.com/msng",
+    "Kenta Murakami <kntmrkm@gmail.com>"
+  ],
+  "description": "A jQuery plugin that instantly shows previews of images selected with HTML input element",
+  "main": [
+    "src/jquery-image-preview.js"
+  ],
+  "keywords": [
+    "jquery",
+    "image",
+    "preview"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "jquery": "latest"
+  }
+}

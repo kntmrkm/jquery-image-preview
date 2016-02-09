@@ -1,5 +1,5 @@
 {
-  "name": "jquery.iPreview",
+  "name": "jquery-image-preview",
   "version": "1.0.0",
   "description": "A jQuery plugin that instantly shows previews of images selected with HTML input element",
   "scripts": {
@@ -7,9 +7,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:msng/jQuery.iPreview.git"
+    "url": "git@github.com:kntmrkm/jquery-font-selector.git"
   },
-  "author": "Masunaga Ray",
+  "author": "Kenta Murakami",
   "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.2",
